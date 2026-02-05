@@ -131,7 +131,8 @@
           {
             "library_name": "core-7.2.0.tgz",
             "vulnerabilities": [
-              "CVE-2021-4231"
+              "CVE-2021-4231",
+              "CVE-2026-22610"
             ]
           }
         ]
